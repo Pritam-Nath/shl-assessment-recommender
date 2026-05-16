@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+*.log
+SHL_AI_Intern_Assignment.pdf
+assignment_text.txt
