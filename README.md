@@ -38,3 +38,7 @@ Use any FastAPI-friendly host such as Render, Railway, Fly.io, or Hugging Face S
    - Start command: `uvicorn app.main:app --host 0.0.0.0 --port $PORT`
    - Health check path: `/health`
 4. Submit the Render service URL after confirming `/health` and `/chat` work.
+
+### Live App Demo 
+
+https://shl-assessment-recommender-xifx.onrender.com
